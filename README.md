@@ -21,7 +21,6 @@ I'm a junior Business Administration student majoring in Information Technology 
 ### 🚀 Latest Projects & Research
 
 - **🧠 Blood Cell Detection using YOLOv12** — Research project evaluating the potential of YOLOv12 to overcome previous object detection challenges and offer a robust, real-time solution for automated blood cell identification in medical diagnostics  
-- **🔬 Emotion Recognition from Speech** — Deep learning model to classify emotions using audio data  
 - **📊 Credit Scoring Model** — Predicting individual creditworthiness with classification algorithms  
 - **🧵 AI-Powered Textile Defect Detection** — YOLOv8-based inspection model to automate quality control  
 - **📈 Superstore BI Dashboard** — End-to-end BI system using ETL, MySQL, Power BI & ML forecasting  
@@ -45,9 +44,10 @@ Node.js • Express • React.js • Flask • Docker • MySQL • MongoDB • 
 
 ### 🌍 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aya-saadawi/)
-- 📧 saadaouiaya@tbs.u-tuni
-- 💻 [My GitHub Projects](https://github.com/AyaSaadawi)
+- [LinkedIn](https://www.linkedin.com/in/aya-saadawi/)
+- saadaouiaya@tbs.u-tuni
+- [My GitHub Projects](https://github.com/AyaSaadawi)
+- [My Portfolio](https://portfolio-ykpr.onrender.com/)
 
 ---
 
