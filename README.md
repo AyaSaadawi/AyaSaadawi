@@ -49,7 +49,7 @@ I am passionate about designing and developing **intelligent systems** that merg
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Blood Cell Detection (YOLOv12)](link-to-repo) | Deep learning model for medical diagnostics using YOLOv12 + OpenCV, deployed with Streamlit | Python • YOLOv12 • OpenCV • Streamlit |
+| [Blood Cell Detection (YOLOv12)](https://github.com/AyaSaadawi/Blood-Cell-Detection-Project) | Deep learning model for medical diagnostics using YOLOv12 + OpenCV, deployed with Streamlit | Python • YOLOv12 • OpenCV • Streamlit |
 | [Superstore Dataset Analysis & Dashboard](link-to-repo) | Comprehensive ETL + MySQL + Power BI dashboard for business insights | Python • MySQL • Power BI |
 | [AI-Driven Car Resale Value Prediction](link-to-repo) | ML app predicting used car resale values with Spark | Java • ML • Apache Spark |
 | [Ben Arous Industrial Zone Gateway](link-to-repo) | Full-stack web service with JWT auth & Google Maps integration | Node.js • Express • MySQL • React • Google OAuth |
