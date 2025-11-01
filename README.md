@@ -50,12 +50,12 @@ I am passionate about designing and developing **intelligent systems** that merg
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Blood Cell Detection (YOLOv12)](https://github.com/AyaSaadawi/Blood-Cell-Detection-Project) | Deep learning model for medical diagnostics using YOLOv12 + OpenCV, deployed with Streamlit | Python • YOLOv12 • OpenCV • Streamlit |
-| [Superstore Dataset Analysis & Dashboard](link-to-repo) | Comprehensive ETL + MySQL + Power BI dashboard for business insights | Python • MySQL • Power BI |
-| [AI-Driven Car Resale Value Prediction](link-to-repo) | ML app predicting used car resale values with Spark | Java • ML • Apache Spark |
-| [Ben Arous Industrial Zone Gateway](link-to-repo) | Full-stack web service with JWT auth & Google Maps integration | Node.js • Express • MySQL • React • Google OAuth |
-| [Credit Card Scoring Model](link-to-repo) | Creditworthiness prediction with SMOTE, Random Forest & Logistic Regression | Python • ML • Random Forest • SMOTE |
-| [Metaheuristic Portfolio Optimizer](link-to-repo) | Streamlit app with PSO, GA, SA, and hybrid optimization for portfolio allocation | Python • Streamlit • PSO • GA • SA |
-| [E-commerce Mobile App (Android)](link-to-repo) | Android shopping app with MVVM, Jetpack Compose & Azure AI | Kotlin • MVVM • Jetpack Compose • Ktor • Azure AI |
+| [Superstore Dataset Analysis & Dashboard](https://github.com/AyaSaadawi/Superstore-BI-Dashboard-Analysis) | Comprehensive ETL + MySQL + Power BI dashboard for business insights | Python • MySQL • Power BI |
+| [AI-Driven Car Resale Value Prediction](https://github.com/sajaa45/Car-Resale-Data-Analysis-Management-System/tree/aya_sa) | ML app predicting used car resale values with Spark | Java • ML • Apache Spark |
+| [Ben Arous Industrial Zone Gateway](https://github.com/AyaSaadawi/Ben-Arous-Industrial-Zone-RESTAPI) | Full-stack web service with JWT auth & Google Maps integration | Node.js • Express • MySQL • React • Google OAuth |
+| [Credit Card Scoring Model](https://github.com/AyaSaadawi/Credit-Card-Scoring) | Creditworthiness prediction with SMOTE, Random Forest & Logistic Regression | Python • ML • Random Forest • SMOTE |
+| [Metaheuristic Portfolio Optimizer](https://github.com/AyaSaadawi/Metaheurstic_Portfolio_Optimization) | Streamlit app with PSO, GA, SA, and hybrid optimization for portfolio allocation | Python • Streamlit • PSO • GA • SA |
+| [E-commerce Mobile App (Android)](https://github.com/AyaSaadawi/Econometrics-Price-Prediction) | Android shopping app with MVVM, Jetpack Compose & Azure AI | Kotlin • MVVM • Jetpack Compose • Ktor • Azure AI |
 
 ---
 
