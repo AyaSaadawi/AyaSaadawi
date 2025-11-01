@@ -55,7 +55,7 @@ I am passionate about designing and developing **intelligent systems** that merg
 | [Ben Arous Industrial Zone Gateway](https://github.com/AyaSaadawi/Ben-Arous-Industrial-Zone-RESTAPI) | Full-stack web service with JWT auth & Google Maps integration | Node.js • Express • MySQL • React • Google OAuth |
 | [Credit Card Scoring Model](https://github.com/AyaSaadawi/Credit-Card-Scoring) | Creditworthiness prediction with SMOTE, Random Forest & Logistic Regression | Python • ML • Random Forest • SMOTE |
 | [Metaheuristic Portfolio Optimizer](https://github.com/AyaSaadawi/Metaheurstic_Portfolio_Optimization) | Streamlit app with PSO, GA, SA, and hybrid optimization for portfolio allocation | Python • Streamlit • PSO • GA • SA |
-| [E-commerce Mobile App (Android)](https://github.com/AyaSaadawi/Econometrics-Price-Prediction) | Android shopping app with MVVM, Jetpack Compose & Azure AI | Kotlin • MVVM • Jetpack Compose • Ktor • Azure AI |
+| [E-commerce Mobile App (Android)](https://github.com/laabidiRayen/EcommerceMobileApp) | Android shopping app with MVVM, Jetpack Compose & Azure AI | Kotlin • MVVM • Jetpack Compose • Ktor • Azure AI |
 
 ---
 
